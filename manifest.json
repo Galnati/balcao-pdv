@@ -1,0 +1,17 @@
+{
+  "name": "Balcão — vendas, estoque e fiado",
+  "short_name": "Balcão",
+  "description": "Sistema de PDV, estoque, clientes e financeiro para venda de bebidas.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#2b2f36",
+  "theme_color": "#3D5AFE",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
